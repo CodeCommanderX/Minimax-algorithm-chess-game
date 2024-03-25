@@ -24,7 +24,7 @@ The Minimax algorithm is a decision-making algorithm used in two-player games to
 
 ## Contributors
 
-- VU MINH NGHIA : [Your GitHub Profile](link)
+- VU MINH NGHIA : [Your GitHub Profile](https://github.com/CodeCommanderX)
 
 ## Contributions
 
