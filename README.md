@@ -18,6 +18,12 @@ This repository contains a chess game implementation that utilizes the Minimax a
 
 ![CleanShot 25-03-2024--at 9 -46-56](https://github.com/CodeCommanderX/Minimax-algorithm-chess-game/assets/132070927/4e07a699-7e92-4ee8-928d-50a2378e0dec)
 
+
+
+https://github.com/CodeCommanderX/Minimax-algorithm-chess-game/assets/132070927/9876b838-24be-44cd-9ee6-8eac894c8a01
+
+
+
 ## Minimax Algorithm
 
 The Minimax algorithm is a decision-making algorithm used in two-player games to determine the optimal move for a player, assuming that the opponent is also playing optimally. It evaluates possible moves by recursively exploring the game tree up to a certain depth, assigning a value to each move based on the resulting game state.
